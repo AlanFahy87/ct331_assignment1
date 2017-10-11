@@ -1,0 +1,5 @@
+Undefined symbols for architecture x86_64:
+  "_runTests", referenced from:
+      _main in assignment-27472c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
